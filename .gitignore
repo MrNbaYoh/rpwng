@@ -1,0 +1,6 @@
+otherapp.bin
+utils/EUR.py
+utils/USA.py
+utils/JPN.py
+utils/code_*
+*/__pycache__
