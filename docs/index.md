@@ -3,8 +3,8 @@ RPwnG is a 3ds userland exploit for RPG Maker Player, allowing one to launch
 [the Homebrew Launcher](http://smealum.github.io/3ds/) through the game.
 ## Requirements
 You'll need :  
-* a 3ds on firmware <= 11.5
-* a digital copy of [RPG Maker Player](http://www.nintendo.com/games/detail/rpg-maker-player-3ds) (free)
+* a 3ds on firmware 11.5
+* a digital copy of [RPG Maker Player](http://www.nintendo.com/games/detail/rpg-maker-player-3ds) (free) ver. 1.1.4 on EUR, ver. 1.1.2 on USA/JPN
 
 ## Installation
 1. Get and install the homebrew starter kit available [here](http://smealum.github.io/3ds/).
