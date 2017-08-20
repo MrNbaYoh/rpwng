@@ -8,9 +8,10 @@ You'll need :
 
 ## Installation
 1. Get and install the homebrew starter kit available [here](http://smealum.github.io/3ds/).
-2. Find a code for your region and console type (o3ds/n3ds). You might want to look at #GetRPwnG on twitter.
-3. Download the project thank to the online sharing feature, once the download is finished try to run it.
-4. Enjoy!
+2. Change your 3ds language to English (most of the uploaders speak english, and the game only shows projects with the same language as the one of your 3ds)
+3. Find a code for your region and console type (o3ds/n3ds). You might want to look at #GetRPwnG on twitter.
+4. Download the project thank to the online sharing feature, once the download is finished try to run it.
+5. Enjoy!
 
 ## How to use RPwnG
 Just try to load the RPwnG game, the loading should stop and the HBL should run.  
