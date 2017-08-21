@@ -18,11 +18,11 @@ You'll need :
 Just try to load the RPwnG game, the loading should stop and the HBL should run.  
 /!\ It might take a while for the exploit to run, be patient /!\
 
-## Thanks
-* [smealum](https://github.com/smealum) and everyone else who have contributed to the HBL/hax payload
-* All the potential testers and the people who share the exploit
-
 ## Donations  
 Much efforts and time have been spent on making this exploit, since some people already asked me if they could give me a few bucks somewhere, I decided for the first time to add this donation button.  
 Of course you're not forced to give anything, every amount will be appreciated and of course used for hacking purposes ;) (potentially Switchhax in the future)  
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MN78A7NRKN8W4)
+
+## Thanks
+* [smealum](https://github.com/smealum) and everyone else who have contributed to the HBL/hax payload
+* All the potential testers and the people who share the exploit
